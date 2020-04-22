@@ -1,20 +1,19 @@
 ---
-title: Git Intro
-description: Leer de basis van versiebeheer met Git en social coding met GitHub.
+title: "Git Intro"
+description: "Leer de basis van versiebeheer met Git en social coding met GitHub."
 semester: 1
-taskclass: Git 
+taskclass: "Git"
 level: 1
-behavior-criteria:{
+behavior-criteria:
   collaboration: 1,
   learning-capacity: 2,
   problem-solving: 1,
   act-methodically: 2,
   work-systematically: 2,
   communicating: 1
-}
-type: individueel
-tags: github, repository, conventions
-burn-points: ...
+type: "individueel"
+tags: "github, repository, conventions"
+burn-points: 2
 ---
 
 # GitHub Intro
