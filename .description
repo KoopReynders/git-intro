@@ -5,12 +5,11 @@ semester: 1
 taskclass: "Git"
 level: 1
 behavior-criteria:
-  collaboration: 1
-  learning-capacity: 2
+  collaboration: 0
+  learning-capacity: 1
   problem-solving: 1
-  act-methodically: 2
-  work-systematically: 2
-  communicating: 1
+  act-methodically: 1
+  communicating: 0
 type: "individueel"
 tags: "github, repository, conventions"
 burn-points: 2
