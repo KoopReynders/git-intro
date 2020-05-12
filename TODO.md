@@ -35,7 +35,7 @@ In deze opdracht leer je werken met Git en GitHub. Hierbij ligt de nadruk op het
 
 **Activeer GitHub Pages in de geforkte repository**
 
-1. Click op de knop `settings`
+1. Klik op de knop `settings`
 2. Scroll naar het hoofdstuk `GitHub Pages`
 3. Selecteer in de select box onder het kopje `Source` de `master branch`
 4. Nadat de pagina ververst is, verschijnt er onder het `GitHub Pages` hoofdstuk een url naar de Github Pages
